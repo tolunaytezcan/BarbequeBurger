@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-# CoinFlip
+# Barbeque Burger
 `(TR)`
 Bu programda hamburgere malzeme ekleyebilir veya çıkarabilirim. Bunu sağ kısımda görsel olarak gösteriyorum. En alt kısımda ise her malzemenin fiyatı ve kaç adet olduğu yazıyor ve onun altında da toplam tutar var.
 
