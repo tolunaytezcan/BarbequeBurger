@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/burger-builder/static/css/main.1e1e968f.chunk.css",
-    "main.js": "/github.io/burger-builder/static/js/main.4c492dd2.chunk.js",
-    "main.js.map": "/github.io/burger-builder/static/js/main.4c492dd2.chunk.js.map",
-    "runtime-main.js": "/github.io/burger-builder/static/js/runtime-main.03968cfa.js",
-    "runtime-main.js.map": "/github.io/burger-builder/static/js/runtime-main.03968cfa.js.map",
-    "static/js/2.c2bebac1.chunk.js": "/github.io/burger-builder/static/js/2.c2bebac1.chunk.js",
-    "static/js/2.c2bebac1.chunk.js.map": "/github.io/burger-builder/static/js/2.c2bebac1.chunk.js.map",
-    "index.html": "/github.io/burger-builder/index.html",
-    "precache-manifest.f19addd0d4954259f097da11a517e669.js": "/github.io/burger-builder/precache-manifest.f19addd0d4954259f097da11a517e669.js",
-    "service-worker.js": "/github.io/burger-builder/service-worker.js",
-    "static/css/main.1e1e968f.chunk.css.map": "/github.io/burger-builder/static/css/main.1e1e968f.chunk.css.map",
-    "static/js/2.c2bebac1.chunk.js.LICENSE.txt": "/github.io/burger-builder/static/js/2.c2bebac1.chunk.js.LICENSE.txt"
+    "main.css": "/tolunaytezcan/BarbequeBurger/static/css/main.1e1e968f.chunk.css",
+    "main.js": "/tolunaytezcan/BarbequeBurger/static/js/main.40ce9c1c.chunk.js",
+    "main.js.map": "/tolunaytezcan/BarbequeBurger/static/js/main.40ce9c1c.chunk.js.map",
+    "runtime-main.js": "/tolunaytezcan/BarbequeBurger/static/js/runtime-main.25287c95.js",
+    "runtime-main.js.map": "/tolunaytezcan/BarbequeBurger/static/js/runtime-main.25287c95.js.map",
+    "static/js/2.c2bebac1.chunk.js": "/tolunaytezcan/BarbequeBurger/static/js/2.c2bebac1.chunk.js",
+    "static/js/2.c2bebac1.chunk.js.map": "/tolunaytezcan/BarbequeBurger/static/js/2.c2bebac1.chunk.js.map",
+    "index.html": "/tolunaytezcan/BarbequeBurger/index.html",
+    "precache-manifest.2675065444a03e39c93e35942ffbd920.js": "/tolunaytezcan/BarbequeBurger/precache-manifest.2675065444a03e39c93e35942ffbd920.js",
+    "service-worker.js": "/tolunaytezcan/BarbequeBurger/service-worker.js",
+    "static/css/main.1e1e968f.chunk.css.map": "/tolunaytezcan/BarbequeBurger/static/css/main.1e1e968f.chunk.css.map",
+    "static/js/2.c2bebac1.chunk.js.LICENSE.txt": "/tolunaytezcan/BarbequeBurger/static/js/2.c2bebac1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03968cfa.js",
+    "static/js/runtime-main.25287c95.js",
     "static/js/2.c2bebac1.chunk.js",
     "static/css/main.1e1e968f.chunk.css",
-    "static/js/main.4c492dd2.chunk.js"
+    "static/js/main.40ce9c1c.chunk.js"
   ]
 }
